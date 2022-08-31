@@ -1,0 +1,31 @@
+{
+  "name": "project_npm",
+  "version": "1.0.0",
+  "description": "test_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arkashu/project_npm.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Arkadii Nikolaiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arkashu/project_npm/issues"
+  },
+  "homepage": "https://github.com/Arkashu/project_npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^2.7.1"
+  }
+}
